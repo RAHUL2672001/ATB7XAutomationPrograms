@@ -4,29 +4,29 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="10.004">
+           time="13.573">
     <properties></properties>
 
 
 
             <testcase
                 name="test_update_request_put"
-                time="5.820"
-                classname="ex_21092024.CRUD.TestCaseIntegration">
-            </testcase>
-            <testcase
-                name="test_delete_booking"
-                time="1.340"
-                classname="ex_21092024.CRUD.TestCaseIntegration">
-            </testcase>
-            <testcase
-                name="test_after_delete_request_get"
-                time="1.421"
+                time="7.470"
                 classname="ex_21092024.CRUD.TestCaseIntegration">
             </testcase>
             <testcase
                 name="test_update_request_get"
-                time="1.423"
+                time="2.040"
+                classname="ex_21092024.CRUD.TestCaseIntegration">
+            </testcase>
+            <testcase
+                name="test_after_delete_request_get"
+                time="2.056"
+                classname="ex_21092024.CRUD.TestCaseIntegration">
+            </testcase>
+            <testcase
+                name="test_delete_booking"
+                time="2.007"
                 classname="ex_21092024.CRUD.TestCaseIntegration">
             </testcase>
 </testsuite>
