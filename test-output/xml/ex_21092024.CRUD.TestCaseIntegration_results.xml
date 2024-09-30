@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB7xAPIAutomationPrograms"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.004">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_update_request_put"
+                time="5.820"
+                classname="ex_21092024.CRUD.TestCaseIntegration">
+            </testcase>
+            <testcase
+                name="test_delete_booking"
+                time="1.340"
+                classname="ex_21092024.CRUD.TestCaseIntegration">
+            </testcase>
+            <testcase
+                name="test_after_delete_request_get"
+                time="1.421"
+                classname="ex_21092024.CRUD.TestCaseIntegration">
+            </testcase>
+            <testcase
+                name="test_update_request_get"
+                time="1.423"
+                classname="ex_21092024.CRUD.TestCaseIntegration">
+            </testcase>
+</testsuite>

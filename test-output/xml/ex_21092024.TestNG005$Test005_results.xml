@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/RAHUL/IdeaProjects/ATB7xAPIAutomationPrograms"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.046">
+    <properties></properties>
+
+
+
+            <testcase
+                name="t1"
+                time="0.000"
+                classname="ex_21092024.TestNG005$Test005">
+            </testcase>
+            <testcase
+                name="t2"
+                time="0.046"
+                classname="ex_21092024.TestNG005$Test005">
+            </testcase>
+            <testcase
+                name="t3"
+                time="0.000"
+                classname="ex_21092024.TestNG005$Test005">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB7xAPIAutomationPrograms"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.118">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_post"
+                time="3.118"
+                classname="ex_26092024.JSONPath01">
+            </testcase>
+</testsuite>

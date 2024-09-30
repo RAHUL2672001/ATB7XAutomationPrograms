@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB7xAPIAutomationPrograms"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.046">
+    <properties></properties>
+
+
+
+            <testcase
+                name="SoftAssertExample"
+                time="0.046"
+                classname="ex_21092024.CRUD.HardA_SoftA">
+            </testcase>
+</testsuite>

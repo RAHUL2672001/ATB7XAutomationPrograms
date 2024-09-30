@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/RAHUL/IdeaProjects/ATB7xAPIAutomationPrograms">
+    <classes>
+        <class name="ex_21092024.CRUD.TestNG011_assertions">
+        </class>
+    </classes>
+</test>
+</suite>
